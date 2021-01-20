@@ -1,0 +1,60 @@
+body{
+    background-image: url(website-assests/bg.png);
+    background-repeat:no-repeat;
+  background-attachment: fixed;
+  font-family:'Merriweather Sans', sans-serif;
+  src: url('Merriweather_Sans/MerriweatherSans-Italic-VariableFont_wght.ttf');
+  
+  
+margin: 0%;
+
+}
+
+
+
+#heading{
+    font-size: 3.5vw;
+    line-height: 100%;
+    color: wheat;
+    font-style: italic;
+    height: 40%;
+ 
+}
+
+    
+
+#top{
+    height:23%;
+    background-color: black;
+}  
+
+#table{
+    margin-top: 30px;
+}
+
+#logo{
+    width: 40%;
+  
+    margin-left: 50%;
+}
+
+#aboutjokelovers{
+    margin-top: 5%;
+    margin-left: 2%;
+   
+    width: 80%;
+    color: white;
+    font-size: 2.1vw;
+    font-weight: 100px;
+height: 85%;
+
+}
+
+#admin{
+    margin-top: 30px;
+    color: azure;
+    font-size: 2.1vw;
+    float: right;
+    margin-right: 10px;
+    
+}
