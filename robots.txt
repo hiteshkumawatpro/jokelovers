@@ -4,4 +4,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap:https://www.jokelovers.tk/sitemap.xml
+Sitemap: https://jokelovers.tk/sitemap.xml
