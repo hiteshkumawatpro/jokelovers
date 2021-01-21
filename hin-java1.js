@@ -29,7 +29,7 @@ function popupdownload1(){
 
     document.getElementById('anchor').setAttribute('href','website-assests/hindi 1/img (1).jpg')
     document.getElementById('anchor').setAttribute('download','joke lovers 1')
-    document.getElementById('anchor').setAttribute('download','joke lovers 1')
+   
 }
 
 
@@ -101,7 +101,7 @@ function popupdownload6(){
   else {
       element.setAttribute('style','visibility:hidden; background-color: rgba(233, 150, 122, 0.622);')
   }
-    document.getElementById('anchor').setAttribute('href','website-assests/hindi 1/mid-img (1).jpg')
+    document.getElementById('anchor').setAttribute('href','website-assests/hindi 1/mid (1).jpg')
     document.getElementById('anchor').setAttribute('download','joke lovers 6')
 }
 
@@ -117,7 +117,7 @@ function popupdownload7(){
   else {
       element.setAttribute('style','visibility:hidden; background-color: rgba(233, 150, 122, 0.622);')
   }
-    document.getElementById('anchor').setAttribute('href','website-assests/hindi 1/mid-img (2).jpg')
+    document.getElementById('anchor').setAttribute('href','website-assests/hindi 1/mid (2).jpg')
     document.getElementById('anchor').setAttribute('download','joke lovers 7')
 }
 
@@ -132,7 +132,7 @@ function popupdownload8(){
   else {
       element.setAttribute('style','visibility:hidden; background-color: rgba(233, 150, 122, 0.622);')
   }
-    document.getElementById('anchor').setAttribute('href','website-assests/hindi 1/mid-img (3).jpg')
+    document.getElementById('anchor').setAttribute('href','website-assests/hindi 1/mid (3).jpg')
     document.getElementById('anchor').setAttribute('download','joke lovers 8')
 }
 
@@ -147,7 +147,7 @@ function popupdownload9(){
   else {
       element.setAttribute('style','visibility:hidden; background-color: rgba(233, 150, 122, 0.622);')
   }
-    document.getElementById('anchor').setAttribute('href','website-assests/hindi 1/mid-img (4).jpg')
+    document.getElementById('anchor').setAttribute('href','website-assests/hindi 1/mid (4).jpg')
     document.getElementById('anchor').setAttribute('download','joke lovers 9')
 }
 
