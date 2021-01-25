@@ -334,7 +334,7 @@ vertical-align: top;
     height: 100%;
     position: absolute;
     top: 0%;
-border-radius: 7%;
+border-radius: 3%;
     z-index: 80;
    opacity: 0;
     visibility: hidden;
